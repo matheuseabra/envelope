@@ -1,10 +1,10 @@
-# Envelope ji:📨
+# Envelope 📨
 
 Mail sending microservice built with Node.js, Docker and MongoDB.
 
-## Send emails to a list the easy way.
+Send emails to a list the easy way.
 
-**Functional resources**
+**Features**
 
 - Import a list in CSV and relate it to a tag;
 - Send message to one or more tags;
